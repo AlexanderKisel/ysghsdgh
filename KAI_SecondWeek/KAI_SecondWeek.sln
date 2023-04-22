@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KAI_SecondWeek", "KAI_SecondWeek\KAI_SecondWeek.csproj", "{9CF026CF-E4D1-41B8-B8CB-DC4EE51F090A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CF026CF-E4D1-41B8-B8CB-DC4EE51F090A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF026CF-E4D1-41B8-B8CB-DC4EE51F090A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF026CF-E4D1-41B8-B8CB-DC4EE51F090A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF026CF-E4D1-41B8-B8CB-DC4EE51F090A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2D909A2-4AC0-4460-A78C-E98788BFCEA3}
+	EndGlobalSection
+EndGlobal

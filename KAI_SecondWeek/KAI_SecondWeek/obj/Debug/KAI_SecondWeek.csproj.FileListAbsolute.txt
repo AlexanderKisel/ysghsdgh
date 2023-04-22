@@ -1,0 +1,12 @@
+X:\УП.01\KAI_SecondWeek\KAI_SecondWeek\bin\Debug\KAI_SecondWeek.exe.config
+X:\УП.01\KAI_SecondWeek\KAI_SecondWeek\bin\Debug\KAI_SecondWeek.exe
+X:\УП.01\KAI_SecondWeek\KAI_SecondWeek\bin\Debug\KAI_SecondWeek.pdb
+X:\УП.01\KAI_SecondWeek\KAI_SecondWeek\obj\Debug\KAI_SecondWeek.csproj.AssemblyReference.cache
+X:\УП.01\KAI_SecondWeek\KAI_SecondWeek\obj\Debug\KAI_SecondWeek.csproj.SuggestedBindingRedirects.cache
+X:\УП.01\KAI_SecondWeek\KAI_SecondWeek\obj\Debug\KAI_SecondWeek.Main.resources
+X:\УП.01\KAI_SecondWeek\KAI_SecondWeek\obj\Debug\KAI_SecondWeek.Properties.Resources.resources
+X:\УП.01\KAI_SecondWeek\KAI_SecondWeek\obj\Debug\KAI_SecondWeek.csproj.GenerateResource.cache
+X:\УП.01\KAI_SecondWeek\KAI_SecondWeek\obj\Debug\KAI_SecondWeek.csproj.CoreCompileInputs.cache
+X:\УП.01\KAI_SecondWeek\KAI_SecondWeek\obj\Debug\KAI_SecondWeek.exe
+X:\УП.01\KAI_SecondWeek\KAI_SecondWeek\obj\Debug\KAI_SecondWeek.pdb
+X:\УП.01\KAI_SecondWeek\KAI_SecondWeek\obj\Debug\KAI_SecondWeek.Rules.resources
